@@ -1,7 +1,7 @@
 ## Olá, bem vindo ao meu perfil
 
 
-- 🔭 Atualmente trabalho com nodejs, typescript, c#, RabbitMQ, SQLServer, microserviços, clean architecture
+- 🔭 Atualmente trabalho com nodejs, typescript, c#, RabbitMQ, SQLServer, microserviços, clean architecture, Nestjs
 - 🌱 Aprofundando meu conhecimento em:
        -  java
        -  Spring framework
@@ -13,7 +13,6 @@
        -  RabbitMQ
        -  Redis
        -  TDD
-       -  Nestjs
        -  NextJs
 - 🐱‍🏍 Iniciando uma jornada de conhecimento com:
        - golang 
