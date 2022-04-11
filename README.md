@@ -26,7 +26,7 @@
 <div>
   <a href="https://github.com/Emanoel01">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanoel01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel01&layout=compact&langs_count=32&theme=dark&hide=html"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel01&layout=compact&langs_count=32&theme=dark&hide=html,shell,css,xslt,batchfile"/>
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel01&layout=compact&langs_count=4&theme=dark"/> -->
 </div>
   
