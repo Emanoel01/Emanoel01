@@ -14,8 +14,8 @@
        -  Redis
        -  TDD
        -  NextJs
+       -  golang
 - 🐱‍🏍 Iniciando uma jornada de conhecimento com:
-       - golang 
        - python
        - kubernetes
        - kafka
